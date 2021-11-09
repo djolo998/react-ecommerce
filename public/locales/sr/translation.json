@@ -1,0 +1,83 @@
+{
+    "cart": {
+        "addTo": "Dodaj u korpu",
+        "tableCells": {
+            "product": "PROIZVOD",
+            "price": "CENA",
+            "size": "VELICINA",
+            "quantity": "KOLICINA",
+            "": ""
+        },
+        "btns": {
+            "update": "azuriraj"
+        },
+        "overview": "Pregled Korpe",
+        "deliveryMethod": "Opcija Dostave",
+        "paymentMethod": "Opcija Placanja",
+        "estimatedShipping": "Cena dostave",
+        "total": "Ukupno",
+        "order": "Naruci",
+        "deliveryOptions": {
+            "pickUp": "Licno Preuzimanje",
+            "fcm": "Post Express"
+        },
+        "paymentOptions": {
+            "cash": "Kes",
+            "payPal": "PayPal"
+        }
+    },
+    "product": {
+        "quantity": "kolicina",
+        "availableSizes": "Dostupne velicine",
+        "reviews": "ocena"
+    },
+    "products": {
+        "brands": "Brendovi",
+        "colors": "Boje",
+        "sizes": "Velicine",
+        "categories": "Kategorije",
+        "price": "Cena",
+        "genre": "Pol",
+        "priceAscending": "Po ceni od najvise",
+        "priceDescending": "Po ceni od najnize",
+        "nameAscending": "Naziv: A to Z",
+        "nameDescending": "Naziv: Z to A",
+        "new": "Novo",
+        "sale": "SALE",
+        "itemsFound": "rezultata",
+        "choose": "Izaberite",
+        "detailsBtn": "Details"
+    },
+    "toast": {
+        "cart": {
+            "addToCart": "Proizvod dodat u korpu",
+            "updateCart": "Korpa azurirana",
+            "deleteCartItem": "Proizvod izbrisan iz korpe",
+            "createOrder": "Uspesno ste narucili proizvode"
+        },
+        "admin": {
+            "deleteProduct": "Proizvod uspesno Obrisan",
+            "deleteBrand": "Brend uspesno Obrisan",
+            "deleteCategory": "Kategorija uspesno Obrisana",
+            "updateProduct": "Proizvod uspesno azuriran",
+            "updateBrand": "Brend uspesno azuriran",
+            "updateCategory": "Kategorija uspesno azurirana",
+            "addNewProduct": "Proizvod uspesno kreiran",
+            "addNewBrand": "Brend uspesno kreiran",
+            "addNewCategory": "Kategorija uspesno kreirana"
+        }
+    },
+    "auth": {
+        "login": {
+            "signIn": "Prijavi se",
+            "dontHaveAcc": "Nemate nalog? Registrujte se"
+        },
+        "register": {
+            "signUp": "Registruj se",
+            "haveAcc": "Vec imate nalog? Prijavi se"
+        }
+    },
+    "settings": {
+        "chooseLanguage": "Izaberite jezik"
+    }
+}

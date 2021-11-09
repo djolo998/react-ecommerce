@@ -1,0 +1,83 @@
+{
+    "cart": {
+        "addTo": "ADD TO BAG",
+        "tableCells": {
+            "product": "PRODUCT",
+            "price": "PRICE",
+            "size": "SIZE",
+            "quantity": "QUANTITY",
+            "": ""
+        },
+        "btns": {
+            "update": "update"
+        },
+        "overview": "Overview",
+        "deliveryMethod": "Delivery",
+        "paymentMethod": "Payment method",
+        "estimatedShipping": "Estimated Shipping",
+        "total": "Total",
+        "order": "Order",
+        "deliveryOptions": {
+            "pickUp": "Pick-up",
+            "fcm": "First-Class Mail"
+        },
+        "paymentOptions": {
+            "cash": "Cash",
+            "payPal": "PayPal"
+        }
+    },
+    "product": {
+        "quantity": "Quantity",
+        "availableSizes": "Available sizes",
+        "reviews": "reviews"
+    },
+    "products": {
+        "brands": "Brands",
+        "colors": "Color",
+        "sizes": "Sizes",
+        "categories": "Categories",
+        "price": "Price",
+        "genre": "Genre",
+        "priceAscending": "Price: High to Low",
+        "priceDescending": "Price: Low to High",
+        "nameAscending": "Name: A to Z",
+        "nameDescending": "Name: Z to A",
+        "new": "NEW",
+        "sale": "SALE",
+        "itemsFound": "Items found",
+        "choose": "Choose",
+        "detailsBtn": "Details"
+    },
+    "toast": {
+        "cart": {
+            "addToCart": "Product added to cart",
+            "updateCart": "Product Updated!",
+            "deleteCartItem": "Product Deleted",
+            "createOrder": "Order Successfully Placed"
+        },
+        "admin": {
+            "deleteProduct": "Proizvod uspesno Obrisan",
+            "deleteBrand": "Brend uspesno Obrisan",
+            "deleteCategory": "Kategorija uspesno Obrisana",
+            "updateProduct": "Proizvod uspesno azuriran",
+            "updateBrand": "Brend uspesno azuriran",
+            "updateCategory": "Kategorija uspesno azurirana",
+            "createProduct": "Proizvod uspesno kreiran",
+            "createBrand": "Brend uspesno kreiran",
+            "createCategory": "Kategorija uspesno kreirana"
+        }
+    },
+    "auth": {
+        "login": {
+            "signIn": "Sign in",
+            "dontHaveAcc": "Don't have an account? Sign Up"
+        },
+        "register": {
+            "signUp": "Register",
+            "haveAcc": "Have an account? Log In"
+        }
+    },
+    "settings": {
+        "chooseLanguage": "Choose a language"
+    }
+}
